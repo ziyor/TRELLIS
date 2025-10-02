@@ -1,5 +1,9 @@
 <img src="assets/logo.webp" width="100%" align="center">
 <h1 align="center">Structured 3D Latents<br>for Scalable and Versatile 3D Generation</h1>
+<p align="center">
+  <img src="assets/mi_modelo_animado.gif" width="600">
+</p>
+
 <p align="center"><a href="https://arxiv.org/abs/2412.01506"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 <a href='https://microsoft.github.io/TRELLIS/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
 <a href='https://huggingface.co/spaces/Microsoft/TRELLIS'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live_Demo-blue'></a>
